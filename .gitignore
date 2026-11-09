@@ -1,0 +1,21 @@
+# Local working areas
+worktrees/
+temp/
+.subtasks/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Documentation build
+docs/_build/
